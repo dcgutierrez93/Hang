@@ -1,3 +1,6 @@
 $(document).ready(function() {
-    console.log("ready!");
+
 });
+function signUp(e) {
+    
+}
