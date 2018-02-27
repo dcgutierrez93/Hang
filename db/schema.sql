@@ -1,0 +1,8 @@
+-- DROP DATABASE IF EXISTS hang_db;
+-- CREATE DATABASE hang_db;
+-- USE hang_db;
+--
+-- CREATE TABLE Users(
+--     id INT NOT NULL AUTO_INCREMENT,
+--     firstname VARCHAR(100) NOT NULL,
+-- );
